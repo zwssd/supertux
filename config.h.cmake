@@ -27,4 +27,6 @@
 
 #cmakedefine HAVE_LIBCURL
 
+#cmakedefine SWIMMING
+
 #endif /*CONFIG_H*/
