@@ -30,6 +30,7 @@
 #include "video/viewport.hpp"
 
 #if defined(_WIN32)
+  #include <windows.h>
   #include <shellapi.h>
 #else
   #include <cstdlib>
